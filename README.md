@@ -1,18 +1,10 @@
 ## Hi there 👋
 
-I'm a first year master student in Electroacoustic at Le Mans Université.
-My c
 
-
-**eliot-des/eliot-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- :seedling: I'm a first year master student in Electroacoustic at Le Mans Université.
+- 🔭 I’m currently working on implementing a real-time circuit simulation plugin .
+- 👯 I’m looking to collaborate on this project to 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: eliot.deschang.etu@univ-lemans.fr
 - ⚡ Fun fact: ...
 
