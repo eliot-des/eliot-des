@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a first year master student in Electroacoustic at Le Mans Université.
+My c
+
 <!--
 **eliot-des/eliot-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
