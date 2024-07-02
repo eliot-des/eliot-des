@@ -7,3 +7,6 @@
 - 🏋️‍♂️I'm also open to work on project related to acoustic, room acoustic, signal processing or electronic.
 - 📫 How to reach me: eliot.deschang.etu@univ-lemans.fr
 
+![Eliot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliot-des&show_icons=true&theme=onedark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliot-des&layout=compact&theme=onedark&count_private=true)
