@@ -4,7 +4,7 @@
 - 🌱 I'm a first year master's student in [Electroacoustic](https://imdeacoustics.univ-lemans.fr/en/index.html) at Le Mans Université.
 - 🔭 I’m currently working on implementing a [real-time circuit simulation plugin](https://github.com/eliot-des/CircuitLive).
 - 👯 I’m looking to collaborate on this project to improve the efficiency of this plugin, and writting better C++ code.
-- 🏋️‍♂️ I'm also open to work on project related to acoustic, room acoustic, signal processing or electronic.
+- 🏋️‍♂️ I'm also open to work on project related to acoustics, room acoustics, signal processing or electronics.
 - 📫 How to reach me: eliot.deschang.etu@univ-lemans.fr
 
 - DISCLAIMER: I'm still learning C++, therefore my C++ skills can be limited. If you can help me to write better code, I would be glad ;)
